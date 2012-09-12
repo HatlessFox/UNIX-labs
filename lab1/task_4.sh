@@ -1,1 +1,1 @@
-ps -ce -o command | grep '^r.*' > r_proc.txt
+ps -c -o comm | grep '^r.*' > r_proc.txt
