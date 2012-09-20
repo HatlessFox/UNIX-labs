@@ -1,1 +1,1 @@
-grep -oE '(<(.*)>|"(.*)")' test.c
+sed -n -f task_4.sed test.c
