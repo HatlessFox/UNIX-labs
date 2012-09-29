@@ -1,0 +1,23 @@
+Donald Knuth
+8
+* 0
+A list is only as strong as its weakest link. 
+* 1
+The hardest thing is to go to sleep at night, when there are so many urgent things needing to be done.
+A huge gap exists between what we know is possible with today's machines and what we have so far been able to finish.
+* 2
+The most important thing in the programming language is the name.
+A language will not succeed without a good name.
+I have recently invented a very good name and now I am looking for a suitable language.
+* 3
+God is a challenge because there is no proof
+of his existence and therefore the search must continue.
+*4
+I can’t go to a restaurant and order food because I keep looking at the fonts on the menu.
+*5
+I define UNIX as 30 definitions of regular expressions living under one roof.
+*6
+A mathematical formula should never be "owned" by anybody!
+Mathematics belong to God.
+*7
+The important thing, once you have enough to eat and a nice house, is what you can do for others, what you can contribute to the enterprise as a whole.
