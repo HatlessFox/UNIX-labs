@@ -38,11 +38,11 @@ function df_print {
       3)
         msg='\033[44m \033[49m';;
       0) 
-	      msg='\033[47m \033[49m';;
-     	1) 
-	      msg='\033[41m \033[49m';;
-	    2)
-	      msg='\033[42m \033[49m';;
+        msg='\033[47m \033[49m';;
+      1) 
+        msg='\033[41m \033[49m';;
+      2)
+        msg='\033[42m \033[49m';;
       esac
       echo -en $msg* 
     done
@@ -75,21 +75,21 @@ function df_routine {
      if (( $2 + $di < 0 || $2+$di > $N-1 || $3 + $dj < 0 || $3+$dj>$M-1)); then 
        continue
      fi
-		
+    
      let ind=$M*$2+$M*$di+$dj+$3
      val=${data:$ind:1}
      if (( $val == '0' || $val == '3' )); then
        test_i=$(( $2 + $di ))
-	     test_j=$(( $3 + $dj ))
+       test_j=$(( $3 + $dj ))
 
        res=$(df_routine $data $test_i $test_j)
        status=$(echo $res | sed 's/.*#\([12]\)/\1/')
        history=$(echo $res | sed 's/\(.*\)#[12]/\1/')
        if (( $status == 2 ));then
-	       echo -en $res
+         echo -en $res
          exit;
        fi
-	     echo -en $history'#'$(df_print $data)'#'
+       echo -en $history'#'$(df_print $data)'#'
      fi
    done
  done
@@ -105,41 +105,41 @@ case $1 in
     state=0
     for i in $(seq 0 $((${N}-1)) );do
       for j in $(seq 0 $((${M}-1)) );do
-   	    tput cup ${i} ${j}
-   	    value=${data:M*i+j:1} 
-	
-	      case $value in
-	      0) 
-	        echo -e '\033[47m \033[49m';;
-	      1) 
-	        echo -e '\033[41m \033[49m';;
-	      3)
-	        let state+=1     
-	        echo -e '\033[44m \033[49m';;
+        tput cup ${i} ${j}
+        value=${data:M*i+j:1} 
+  
+        case $value in
+        0) 
+          echo -e '\033[47m \033[49m';;
+        1) 
+          echo -e '\033[41m \033[49m';;
+        3)
+          let state+=1     
+          echo -e '\033[44m \033[49m';;
         2)
-	        for di in $(seq -1 1);do
-	          for dj in $(seq -1 1);do
-		          if (( $di * $dj != 0 )); then
+          for di in $(seq -1 1);do
+            for dj in $(seq -1 1);do
+              if (( $di * $dj != 0 )); then
                 continue;
               fi
-		          if (( $i + $di < 0 || $i+$di > $N-1 || $j + $dj < 0 || $j+$dj>$M-1)); then 
-		            continue
-		          fi
-		
- 		          let ind=$M*$i+$M*$di+$dj+$j
-	            val=${data:$ind:1}
-              case $val in
-	 	          0)
-		            let state+=2 
-		            next_data=${next_data:0:$ind}2${next_data:$ind+1};;
-	            3)
-		            let state+=2
-		            next_data=${next_data:0:$ind}2${next_data:$ind+1};;
+              if (( $i + $di < 0 || $i+$di > $N-1 || $j + $dj < 0 || $j+$dj>$M-1)); then 
+                continue
+              fi
+    
+               let ind=$M*$i+$M*$di+$dj+$j
+              val=${data:$ind:1}
+               case $val in
+              0)
+                let state+=2 
+                next_data=${next_data:0:$ind}2${next_data:$ind+1};;
+              3)
+                let state+=2
+                next_data=${next_data:0:$ind}2${next_data:$ind+1};;
               esac
             done
           done
-	        echo -e '\033[42m \033[49m';;
-	      esac
+          echo -e '\033[42m \033[49m';;
+        esac
       done
     done
 
@@ -175,7 +175,7 @@ case $1 in
       tmp_str=""
       curr_chars=0
       sleep .05
-	    tput cup 0 0;;
+      tput cup 0 0;;
     '*')
       let curr_chars++
       if (( $curr_chars % $M == 0 )); then
