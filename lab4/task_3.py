@@ -5,7 +5,7 @@ def matr_mul(op1, op2):
   n = len(op2[0])
 
   if (len(op1[0]) != len(op2)):
-    raise Exception("Matrix format invalid")
+    raise Exception("Matrix format is invalid")
   result = []
 
   for i in range(m):
@@ -41,11 +41,14 @@ def print_mart(matr):
 
 a = [
  [1,9,3],
+ [2,7,8],
+ [2,4,5],
+ [3,5,6]
 ]
 
-b = [ [1],[2],[3] ]
+b = [ [1, -4, 5],[2, 78, 2],[3, 6, 8] ]
 
-c = matr_mul(b,a)
+c = matr_mul(a, b)
 
 print_mart(a);
 print("TIMES")
