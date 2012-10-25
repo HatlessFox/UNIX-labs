@@ -12,6 +12,7 @@ morph = get_morph(PATH_TO_DICT)
 def count_rus_nouns(file_name):
   nouns = set()
   total = 0
+  #pick exect id of a noun
   noun_class = morph.get_graminfo(unicode("СОБАКА","UTF-8"))[0]['class'];
   book = open(file_name)
   for line in book:
@@ -28,4 +29,4 @@ def count_rus_nouns(file_name):
 if __name__ == "__main__":
   unique, total = count_rus_nouns(sys.argv[1]);
   print "Total nouns:", total
-  print "Different nounts:", unique
+  print "Different nouns:", unique
