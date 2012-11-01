@@ -1,0 +1,906 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+	<feed xmlns:im="http://itunes.apple.com/rss" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+		<id>http://ax.itunes.apple.com/WebObjects/MZStoreServices.woa/ws/RSS/topsongs/limit=10/xml</id><title>iTunes Store: Top Songs</title><updated>2012-10-27T11:34:21-07:00</updated><link rel="alternate" type="text/html" href="https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewTop?cc=us&amp;id=38&amp;popId=1"/><link rel="self" href="http://ax.itunes.apple.com/WebObjects/MZStoreServices.woa/ws/RSS/topsongs/limit=10/xml"/><icon>http://itunes.apple.com/favicon.ico</icon><author><name>iTunes Store</name><uri>http://www.apple.com/itunes/</uri></author><rights>Copyright 2008 Apple Inc.</rights>
+		
+			<entry>
+				<updated>2012-10-27T11:34:21-07:00</updated>
+				
+					<id im:id="560398388">https://itunes.apple.com/us/album/gangnam-style-gangnamseutail/id560398387?i=560398388&amp;uo=2</id>
+				
+					<title>Gangnam Style (강남스타일) - PSY</title>
+				
+					
+				
+					<im:name>Gangnam Style (강남스타일)</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://itunes.apple.com/us/album/gangnam-style-gangnamseutail/id560398387?i=560398388&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="Music"><im:contentType term="Track" label="Track"/></im:contentType>
+				
+					<category im:id="14" term="Pop" scheme="https://itunes.apple.com/us/genre/music-pop/id14?uo=2" label="Pop"/>
+				
+					<link title="Preview" rel="enclosure" type="audio/x-m4a" href="http://a324.phobos.apple.com/us/r1000/063/Music/10/9c/d8/mzi.htmfnsfo.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://itunes.apple.com/us/artist/psy/id554290495?uo=2">PSY</im:artist>
+				
+					<im:price amount="1.29000" currency="USD">$1.29</im:price>
+				
+					<im:image height="55">http://a371.phobos.apple.com/us/r1000/094/Music/v4/34/d8/8c/34d88cf8-194d-c8c8-d520-65161d28b4e5/UMG_cvrart_00602537178032_01_RGB72_1200x1200_12UMGIM50914.55x55-70.jpg</im:image>
+				
+					<im:image height="60">http://a1093.phobos.apple.com/us/r1000/094/Music/v4/34/d8/8c/34d88cf8-194d-c8c8-d520-65161d28b4e5/UMG_cvrart_00602537178032_01_RGB72_1200x1200_12UMGIM50914.60x60-50.jpg</im:image>
+				
+					<im:image height="170">http://a1460.phobos.apple.com/us/r1000/094/Music/v4/34/d8/8c/34d88cf8-194d-c8c8-d520-65161d28b4e5/UMG_cvrart_00602537178032_01_RGB72_1200x1200_12UMGIM50914.170x170-75.jpg</im:image>
+				
+					<rights>&#8471; 2012 Schoolboy/Universal Republic Records, a division of UMG Recordings, Inc.</rights>
+				
+					<im:releaseDate label="September 6, 2012">2012-09-06T00:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>Gangnam Style (강남스타일) - Single</im:name><link rel="alternate" type="text/html" href="https://itunes.apple.com/us/album/gangnam-style-gangnamseutail/id560398387?uo=2"/><im:contentType term="Music" label="Music"><im:contentType term="Album" label="Album"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://itunes.apple.com/us/album/gangnam-style-gangnamseutail/id560398387?i=560398388&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;PSY - Gangnam Style (강남스타일) artwork&quot; src=&quot;http://a1460.phobos.apple.com/us/r1000/094/Music/v4/34/d8/8c/34d88cf8-194d-c8c8-d520-65161d28b4e5/UMG_cvrart_00602537178032_01_RGB72_1200x1200_12UMGIM50914.170x170-75.jpg&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;http://r.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://itunes.apple.com/us/album/gangnam-style-gangnamseutail/id560398387?i=560398388&amp;uo=2&quot;&gt;Gangnam Style (강남스타일)&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://itunes.apple.com/us/album/gangnam-style-gangnamseutail/id560398387?uo=2&quot;&gt;Gangnam Style (강남스타일) - Single&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://itunes.apple.com/us/artist/psy/id554290495?uo=2&quot;&gt;PSY&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;Genre:&lt;/b&gt; &lt;a href=&quot;https://itunes.apple.com/us/genre/music-pop/id14?uo=2&quot;&gt;Pop&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Price:&lt;/b&gt; $1.29
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Release Date:&lt;/b&gt; September 6, 2012
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2012 Schoolboy/Universal Republic Records, a division of UMG Recordings, Inc.&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2012-10-27T11:34:21-07:00</updated>
+				
+					<id im:id="566150448">https://itunes.apple.com/us/album/locked-out-of-heaven/id566150419?i=566150448&amp;uo=2</id>
+				
+					<title>Locked Out of Heaven - Bruno Mars</title>
+				
+					
+				
+					<im:name>Locked Out of Heaven</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://itunes.apple.com/us/album/locked-out-of-heaven/id566150419?i=566150448&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="Music"><im:contentType term="Track" label="Track"/></im:contentType>
+				
+					<category im:id="14" term="Pop" scheme="https://itunes.apple.com/us/genre/music-pop/id14?uo=2" label="Pop"/>
+				
+					<link title="Preview" rel="enclosure" type="audio/x-m4a" href="http://a1194.phobos.apple.com/us/r1000/099/Music/10/f4/f1/mzi.pkdgbuxp.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://itunes.apple.com/us/artist/bruno-mars/id278873078?uo=2">Bruno Mars</im:artist>
+				
+					<im:price amount="1.29000" currency="USD">$1.29</im:price>
+				
+					<im:image height="55">http://a1664.phobos.apple.com/us/r1000/100/Music/v4/53/50/aa/5350aa5a-565f-1410-a9ee-aaac3a97ea4f/075679957849.55x55-70.jpg</im:image>
+				
+					<im:image height="60">http://a386.phobos.apple.com/us/r1000/100/Music/v4/53/50/aa/5350aa5a-565f-1410-a9ee-aaac3a97ea4f/075679957849.60x60-50.jpg</im:image>
+				
+					<im:image height="170">http://a545.phobos.apple.com/us/r1000/100/Music/v4/53/50/aa/5350aa5a-565f-1410-a9ee-aaac3a97ea4f/075679957849.170x170-75.jpg</im:image>
+				
+					<rights>&#8471; 2012 Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside of the United States</rights>
+				
+					<im:releaseDate label="October 1, 2012">2012-10-01T00:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>Locked Out of Heaven - Single</im:name><link rel="alternate" type="text/html" href="https://itunes.apple.com/us/album/locked-out-of-heaven-single/id566150419?uo=2"/><im:contentType term="Music" label="Music"><im:contentType term="Album" label="Album"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://itunes.apple.com/us/album/locked-out-of-heaven/id566150419?i=566150448&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;Bruno Mars - Locked Out of Heaven artwork&quot; src=&quot;http://a545.phobos.apple.com/us/r1000/100/Music/v4/53/50/aa/5350aa5a-565f-1410-a9ee-aaac3a97ea4f/075679957849.170x170-75.jpg&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;http://r.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://itunes.apple.com/us/album/locked-out-of-heaven/id566150419?i=566150448&amp;uo=2&quot;&gt;Locked Out of Heaven&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://itunes.apple.com/us/album/locked-out-of-heaven-single/id566150419?uo=2&quot;&gt;Locked Out of Heaven - Single&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://itunes.apple.com/us/artist/bruno-mars/id278873078?uo=2&quot;&gt;Bruno Mars&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;Genre:&lt;/b&gt; &lt;a href=&quot;https://itunes.apple.com/us/genre/music-pop/id14?uo=2&quot;&gt;Pop&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Price:&lt;/b&gt; $1.29
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Release Date:&lt;/b&gt; October 1, 2012
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2012 Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside of the United States&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2012-10-27T11:34:21-07:00</updated>
+				
+					<id im:id="559503473">https://itunes.apple.com/us/album/die-young/id559503417?i=559503473&amp;uo=2</id>
+				
+					<title>Die Young - Ke$ha</title>
+				
+					
+				
+					<im:name>Die Young</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://itunes.apple.com/us/album/die-young/id559503417?i=559503473&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="Music"><im:contentType term="Track" label="Track"/></im:contentType>
+				
+					<category im:id="14" term="Pop" scheme="https://itunes.apple.com/us/genre/music-pop/id14?uo=2" label="Pop"/>
+				
+					<link title="Preview" rel="enclosure" type="audio/x-m4a" href="http://a1239.phobos.apple.com/us/r1000/084/Music/27/2a/e8/mzi.ezlwqwfg.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://itunes.apple.com/us/artist/ke$ha/id334854763?uo=2">Ke$ha</im:artist>
+				
+					<im:price amount="1.29000" currency="USD">$1.29</im:price>
+				
+					<im:image height="55">http://a421.phobos.apple.com/us/r1000/092/Features/v4/4d/fc/be/4dfcbef9-f608-dfea-61b8-3a7467c04854/dj.pqtcjeca.55x55-70.jpg</im:image>
+				
+					<im:image height="60">http://a1143.phobos.apple.com/us/r1000/092/Features/v4/4d/fc/be/4dfcbef9-f608-dfea-61b8-3a7467c04854/dj.pqtcjeca.60x60-50.jpg</im:image>
+				
+					<im:image height="170">http://a566.phobos.apple.com/us/r1000/092/Features/v4/4d/fc/be/4dfcbef9-f608-dfea-61b8-3a7467c04854/dj.pqtcjeca.170x170-75.jpg</im:image>
+				
+					<rights>&#8471; 2012 Kemosabe Records</rights>
+				
+					<im:releaseDate label="September 25, 2012">2012-09-25T00:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>Die Young - Single</im:name><link rel="alternate" type="text/html" href="https://itunes.apple.com/us/album/die-young-single/id559503417?uo=2"/><im:contentType term="Music" label="Music"><im:contentType term="Album" label="Album"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://itunes.apple.com/us/album/die-young/id559503417?i=559503473&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;Ke$ha - Die Young artwork&quot; src=&quot;http://a566.phobos.apple.com/us/r1000/092/Features/v4/4d/fc/be/4dfcbef9-f608-dfea-61b8-3a7467c04854/dj.pqtcjeca.170x170-75.jpg&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;http://r.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://itunes.apple.com/us/album/die-young/id559503417?i=559503473&amp;uo=2&quot;&gt;Die Young&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://itunes.apple.com/us/album/die-young-single/id559503417?uo=2&quot;&gt;Die Young - Single&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://itunes.apple.com/us/artist/ke$ha/id334854763?uo=2&quot;&gt;Ke$ha&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;Genre:&lt;/b&gt; &lt;a href=&quot;https://itunes.apple.com/us/genre/music-pop/id14?uo=2&quot;&gt;Pop&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Price:&lt;/b&gt; $1.29
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Release Date:&lt;/b&gt; September 25, 2012
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2012 Kemosabe Records&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2012-10-27T11:34:21-07:00</updated>
+				
+					<id im:id="542468928">https://itunes.apple.com/us/album/one-more-night/id542468867?i=542468928&amp;uo=2</id>
+				
+					<title>One More Night - Maroon 5</title>
+				
+					
+				
+					<im:name>One More Night</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://itunes.apple.com/us/album/one-more-night/id542468867?i=542468928&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="Music"><im:contentType term="Track" label="Track"/></im:contentType>
+				
+					<category im:id="14" term="Pop" scheme="https://itunes.apple.com/us/genre/music-pop/id14?uo=2" label="Pop"/>
+				
+					<link title="Preview" rel="enclosure" type="audio/x-m4a" href="http://a760.phobos.apple.com/us/r1000/109/Music/37/0f/44/mzi.ucwvxang.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://itunes.apple.com/us/artist/maroon-5/id1798556?uo=2">Maroon 5</im:artist>
+				
+					<im:price amount="1.29000" currency="USD">$1.29</im:price>
+				
+					<im:image height="55">http://a221.phobos.apple.com/us/r1000/068/Music/v4/db/8c/c8/db8cc841-47a0-2845-5116-e1762dbd711e/UMG_cvrart_00602537109692_01_RGB72_1200x1200_12UMGIM26178.55x55-70.jpg</im:image>
+				
+					<im:image height="60">http://a943.phobos.apple.com/us/r1000/068/Music/v4/db/8c/c8/db8cc841-47a0-2845-5116-e1762dbd711e/UMG_cvrart_00602537109692_01_RGB72_1200x1200_12UMGIM26178.60x60-50.jpg</im:image>
+				
+					<im:image height="170">http://a494.phobos.apple.com/us/r1000/068/Music/v4/db/8c/c8/db8cc841-47a0-2845-5116-e1762dbd711e/UMG_cvrart_00602537109692_01_RGB72_1200x1200_12UMGIM26178.170x170-75.jpg</im:image>
+				
+					<rights>&#8471; 2012 A&amp;M/Octone Records</rights>
+				
+					<im:releaseDate label="July 17, 2012">2012-07-17T00:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>Overexposed (Deluxe)</im:name><link rel="alternate" type="text/html" href="https://itunes.apple.com/us/album/overexposed-deluxe/id542468867?uo=2"/><im:contentType term="Music" label="Music"><im:contentType term="Album" label="Album"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://itunes.apple.com/us/album/one-more-night/id542468867?i=542468928&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;Maroon 5 - One More Night artwork&quot; src=&quot;http://a494.phobos.apple.com/us/r1000/068/Music/v4/db/8c/c8/db8cc841-47a0-2845-5116-e1762dbd711e/UMG_cvrart_00602537109692_01_RGB72_1200x1200_12UMGIM26178.170x170-75.jpg&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;http://r.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://itunes.apple.com/us/album/one-more-night/id542468867?i=542468928&amp;uo=2&quot;&gt;One More Night&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://itunes.apple.com/us/album/overexposed-deluxe/id542468867?uo=2&quot;&gt;Overexposed (Deluxe)&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://itunes.apple.com/us/artist/maroon-5/id1798556?uo=2&quot;&gt;Maroon 5&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;Genre:&lt;/b&gt; &lt;a href=&quot;https://itunes.apple.com/us/genre/music-pop/id14?uo=2&quot;&gt;Pop&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Price:&lt;/b&gt; $1.29
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Release Date:&lt;/b&gt; July 17, 2012
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2012 A&amp;amp;M/Octone Records&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2012-10-27T11:34:21-07:00</updated>
+				
+					<id im:id="571445457">https://itunes.apple.com/us/album/we-are-never-ever-getting/id571445253?i=571445457&amp;uo=2</id>
+				
+					<title>We Are Never Ever Getting Back Together - Taylor Swift</title>
+				
+					
+				
+					<im:name>We Are Never Ever Getting Back Together</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://itunes.apple.com/us/album/we-are-never-ever-getting/id571445253?i=571445457&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="Music"><im:contentType term="Track" label="Track"/></im:contentType>
+				
+					<category im:id="6" term="Country" scheme="https://itunes.apple.com/us/genre/music-country/id6?uo=2" label="Country"/>
+				
+					<link title="Preview" rel="enclosure" type="audio/x-m4a" href="http://a302.phobos.apple.com/us/r1000/099/Music/v4/4f/c2/65/4fc265cb-a06f-a1d2-92d1-5f018ea67662/mzaf_3727952162950031890.aac.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://itunes.apple.com/us/artist/taylor-swift/id159260351?uo=2">Taylor Swift</im:artist>
+				
+					<im:price amount="1.29000" currency="USD">$1.29</im:price>
+				
+					<im:image height="55">http://a1257.phobos.apple.com/us/r1000/103/Music/v4/eb/bc/02/ebbc0219-a3a1-7c77-42ed-706251b98136/UMG_cvrart_00843930007134_01_RGB72_1200x1200_12UMDIM01007.55x55-70.jpg</im:image>
+				
+					<im:image height="60">http://a1979.phobos.apple.com/us/r1000/103/Music/v4/eb/bc/02/ebbc0219-a3a1-7c77-42ed-706251b98136/UMG_cvrart_00843930007134_01_RGB72_1200x1200_12UMDIM01007.60x60-50.jpg</im:image>
+				
+					<im:image height="170">http://a506.phobos.apple.com/us/r1000/103/Music/v4/eb/bc/02/ebbc0219-a3a1-7c77-42ed-706251b98136/UMG_cvrart_00843930007134_01_RGB72_1200x1200_12UMDIM01007.170x170-75.jpg</im:image>
+				
+					<rights>&#8471; 2012 Big Machine Records, LLC.</rights>
+				
+					<im:releaseDate label="October 22, 2012">2012-10-22T00:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>Red</im:name><link rel="alternate" type="text/html" href="https://itunes.apple.com/us/album/red/id571445253?uo=2"/><im:contentType term="Music" label="Music"><im:contentType term="Album" label="Album"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://itunes.apple.com/us/album/we-are-never-ever-getting/id571445253?i=571445457&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;Taylor Swift - We Are Never Ever Getting Back Together artwork&quot; src=&quot;http://a506.phobos.apple.com/us/r1000/103/Music/v4/eb/bc/02/ebbc0219-a3a1-7c77-42ed-706251b98136/UMG_cvrart_00843930007134_01_RGB72_1200x1200_12UMDIM01007.170x170-75.jpg&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;http://r.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://itunes.apple.com/us/album/we-are-never-ever-getting/id571445253?i=571445457&amp;uo=2&quot;&gt;We Are Never Ever Getting Back Together&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://itunes.apple.com/us/album/red/id571445253?uo=2&quot;&gt;Red&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://itunes.apple.com/us/artist/taylor-swift/id159260351?uo=2&quot;&gt;Taylor Swift&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;Genre:&lt;/b&gt; &lt;a href=&quot;https://itunes.apple.com/us/genre/music-country/id6?uo=2&quot;&gt;Country&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Price:&lt;/b&gt; $1.29
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Release Date:&lt;/b&gt; October 22, 2012
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2012 Big Machine Records, LLC.&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2012-10-27T11:34:21-07:00</updated>
+				
+					<id im:id="571445453">https://itunes.apple.com/us/album/i-knew-you-were-trouble/id571445253?i=571445453&amp;uo=2</id>
+				
+					<title>I Knew You Were Trouble - Taylor Swift</title>
+				
+					
+				
+					<im:name>I Knew You Were Trouble</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://itunes.apple.com/us/album/i-knew-you-were-trouble/id571445253?i=571445453&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="Music"><im:contentType term="Track" label="Track"/></im:contentType>
+				
+					<category im:id="6" term="Country" scheme="https://itunes.apple.com/us/genre/music-country/id6?uo=2" label="Country"/>
+				
+					<link title="Preview" rel="enclosure" type="audio/x-m4a" href="http://a1689.phobos.apple.com/us/r1000/120/Music/v4/b3/b1/01/b3b101c5-0afd-a536-394d-962b7012e8e1/mzaf_2968645385761922805.aac.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://itunes.apple.com/us/artist/taylor-swift/id159260351?uo=2">Taylor Swift</im:artist>
+				
+					<im:price amount="1.29000" currency="USD">$1.29</im:price>
+				
+					<im:image height="55">http://a1257.phobos.apple.com/us/r1000/103/Music/v4/eb/bc/02/ebbc0219-a3a1-7c77-42ed-706251b98136/UMG_cvrart_00843930007134_01_RGB72_1200x1200_12UMDIM01007.55x55-70.jpg</im:image>
+				
+					<im:image height="60">http://a1979.phobos.apple.com/us/r1000/103/Music/v4/eb/bc/02/ebbc0219-a3a1-7c77-42ed-706251b98136/UMG_cvrart_00843930007134_01_RGB72_1200x1200_12UMDIM01007.60x60-50.jpg</im:image>
+				
+					<im:image height="170">http://a506.phobos.apple.com/us/r1000/103/Music/v4/eb/bc/02/ebbc0219-a3a1-7c77-42ed-706251b98136/UMG_cvrart_00843930007134_01_RGB72_1200x1200_12UMDIM01007.170x170-75.jpg</im:image>
+				
+					<rights>&#8471; 2012 Big Machine Records, LLC.</rights>
+				
+					<im:releaseDate label="October 22, 2012">2012-10-22T00:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>Red</im:name><link rel="alternate" type="text/html" href="https://itunes.apple.com/us/album/red/id571445253?uo=2"/><im:contentType term="Music" label="Music"><im:contentType term="Album" label="Album"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://itunes.apple.com/us/album/i-knew-you-were-trouble/id571445253?i=571445453&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;Taylor Swift - I Knew You Were Trouble artwork&quot; src=&quot;http://a506.phobos.apple.com/us/r1000/103/Music/v4/eb/bc/02/ebbc0219-a3a1-7c77-42ed-706251b98136/UMG_cvrart_00843930007134_01_RGB72_1200x1200_12UMDIM01007.170x170-75.jpg&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;http://r.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://itunes.apple.com/us/album/i-knew-you-were-trouble/id571445253?i=571445453&amp;uo=2&quot;&gt;I Knew You Were Trouble&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://itunes.apple.com/us/album/red/id571445253?uo=2&quot;&gt;Red&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://itunes.apple.com/us/artist/taylor-swift/id159260351?uo=2&quot;&gt;Taylor Swift&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;Genre:&lt;/b&gt; &lt;a href=&quot;https://itunes.apple.com/us/genre/music-country/id6?uo=2&quot;&gt;Country&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Price:&lt;/b&gt; $1.29
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Release Date:&lt;/b&gt; October 22, 2012
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2012 Big Machine Records, LLC.&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2012-10-27T11:34:21-07:00</updated>
+				
+					<id im:id="565210327">https://itunes.apple.com/us/album/diamonds/id565210325?i=565210327&amp;uo=2</id>
+				
+					<title>Diamonds - Rihanna</title>
+				
+					
+				
+					<im:name>Diamonds</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://itunes.apple.com/us/album/diamonds/id565210325?i=565210327&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="Music"><im:contentType term="Track" label="Track"/></im:contentType>
+				
+					<category im:id="14" term="Pop" scheme="https://itunes.apple.com/us/genre/music-pop/id14?uo=2" label="Pop"/>
+				
+					<link title="Preview" rel="enclosure" type="audio/x-m4a" href="http://a1362.phobos.apple.com/us/r1000/106/Music/e5/63/8d/mzi.fhanmvod.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://itunes.apple.com/us/artist/rihanna/id63346553?uo=2">Rihanna</im:artist>
+				
+					<im:price amount="1.29000" currency="USD">$1.29</im:price>
+				
+					<im:image height="55">http://a1010.phobos.apple.com/us/r1000/074/Music/v4/08/7a/b3/087ab393-f197-b1eb-96e7-5b1ad5abb659/UMG_cvrart_00602537204397_01_RGB72_1200x1200_12UMGIM53876.55x55-70.jpg</im:image>
+				
+					<im:image height="60">http://a1732.phobos.apple.com/us/r1000/074/Music/v4/08/7a/b3/087ab393-f197-b1eb-96e7-5b1ad5abb659/UMG_cvrart_00602537204397_01_RGB72_1200x1200_12UMGIM53876.60x60-50.jpg</im:image>
+				
+					<im:image height="170">http://a1043.phobos.apple.com/us/r1000/074/Music/v4/08/7a/b3/087ab393-f197-b1eb-96e7-5b1ad5abb659/UMG_cvrart_00602537204397_01_RGB72_1200x1200_12UMGIM53876.170x170-75.jpg</im:image>
+				
+					<rights>&#8471; 2012 The Island Def Jam Music Group</rights>
+				
+					<im:releaseDate label="September 27, 2012">2012-09-27T00:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>Diamonds - Single</im:name><link rel="alternate" type="text/html" href="https://itunes.apple.com/us/album/diamonds-single/id565210325?uo=2"/><im:contentType term="Music" label="Music"><im:contentType term="Album" label="Album"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://itunes.apple.com/us/album/diamonds/id565210325?i=565210327&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;Rihanna - Diamonds artwork&quot; src=&quot;http://a1043.phobos.apple.com/us/r1000/074/Music/v4/08/7a/b3/087ab393-f197-b1eb-96e7-5b1ad5abb659/UMG_cvrart_00602537204397_01_RGB72_1200x1200_12UMGIM53876.170x170-75.jpg&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;http://r.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://itunes.apple.com/us/album/diamonds/id565210325?i=565210327&amp;uo=2&quot;&gt;Diamonds&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://itunes.apple.com/us/album/diamonds-single/id565210325?uo=2&quot;&gt;Diamonds - Single&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://itunes.apple.com/us/artist/rihanna/id63346553?uo=2&quot;&gt;Rihanna&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;Genre:&lt;/b&gt; &lt;a href=&quot;https://itunes.apple.com/us/genre/music-pop/id14?uo=2&quot;&gt;Pop&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Price:&lt;/b&gt; $1.29
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Release Date:&lt;/b&gt; September 27, 2012
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2012 The Island Def Jam Music Group&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2012-10-27T11:34:21-07:00</updated>
+				
+					<id im:id="536282832">https://itunes.apple.com/us/album/i-cry/id536282724?i=536282832&amp;uo=2</id>
+				
+					<title>I Cry - Flo Rida</title>
+				
+					
+				
+					<im:name>I Cry</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://itunes.apple.com/us/album/i-cry/id536282724?i=536282832&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="Music"><im:contentType term="Track" label="Track"/></im:contentType>
+				
+					<category im:id="18" term="Hip Hop/Rap" scheme="https://itunes.apple.com/us/genre/music-hip-hop-rap/id18?uo=2" label="Hip-Hop/Rap"/>
+				
+					<link title="Preview" rel="enclosure" type="audio/x-m4a" href="http://a1278.phobos.apple.com/us/r1000/073/Music/09/3d/27/mzm.wwzzwbfq.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://itunes.apple.com/us/artist/flo-rida/id255303209?uo=2">Flo Rida</im:artist>
+				
+					<im:price amount="1.29000" currency="USD">$1.29</im:price>
+				
+					<im:image height="55">http://a385.phobos.apple.com/us/r1000/112/Music/v4/25/03/bb/2503bb1c-fbf4-4f5d-b249-9a2c3cfe24d6/075679960399.55x55-70.jpg</im:image>
+				
+					<im:image height="60">http://a1459.phobos.apple.com/us/r1000/112/Music/v4/25/03/bb/2503bb1c-fbf4-4f5d-b249-9a2c3cfe24d6/075679960399.60x60-50.jpg</im:image>
+				
+					<im:image height="170">http://a1394.phobos.apple.com/us/r1000/112/Music/v4/25/03/bb/2503bb1c-fbf4-4f5d-b249-9a2c3cfe24d6/075679960399.170x170-75.jpg</im:image>
+				
+					<rights>&#8471; 2012 Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside of the United States</rights>
+				
+					<im:releaseDate label="June 22, 2012">2012-06-22T00:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>Wild Ones (Deluxe Version)</im:name><link rel="alternate" type="text/html" href="https://itunes.apple.com/us/album/wild-ones-deluxe-version/id536282724?uo=2"/><im:contentType term="Music" label="Music"><im:contentType term="Album" label="Album"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://itunes.apple.com/us/album/i-cry/id536282724?i=536282832&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;Flo Rida - I Cry artwork&quot; src=&quot;http://a1394.phobos.apple.com/us/r1000/112/Music/v4/25/03/bb/2503bb1c-fbf4-4f5d-b249-9a2c3cfe24d6/075679960399.170x170-75.jpg&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;http://r.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://itunes.apple.com/us/album/i-cry/id536282724?i=536282832&amp;uo=2&quot;&gt;I Cry&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://itunes.apple.com/us/album/wild-ones-deluxe-version/id536282724?uo=2&quot;&gt;Wild Ones (Deluxe Version)&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://itunes.apple.com/us/artist/flo-rida/id255303209?uo=2&quot;&gt;Flo Rida&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;Genre:&lt;/b&gt; &lt;a href=&quot;https://itunes.apple.com/us/genre/music-hip-hop-rap/id18?uo=2&quot;&gt;Hip-Hop/Rap&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Price:&lt;/b&gt; $1.29
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Release Date:&lt;/b&gt; June 22, 2012
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2012 Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside of the United States&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2012-10-27T11:34:21-07:00</updated>
+				
+					<id im:id="486040194">https://itunes.apple.com/us/album/some-nights/id486040153?i=486040194&amp;uo=2</id>
+				
+					<title>Some Nights - Fun.</title>
+				
+					
+				
+					<im:name>Some Nights</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://itunes.apple.com/us/album/some-nights/id486040153?i=486040194&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="Music"><im:contentType term="Track" label="Track"/></im:contentType>
+				
+					<category im:id="20" term="Alternative" scheme="https://itunes.apple.com/us/genre/music-alternative/id20?uo=2" label="Alternative"/>
+				
+					<link title="Preview" rel="enclosure" type="audio/x-m4a" href="http://a1113.phobos.apple.com/us/r1000/092/Music/8e/35/7b/mzm.mtmnarwk.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://itunes.apple.com/us/artist/fun./id138226712?uo=2">Fun.</im:artist>
+				
+					<im:price amount="1.29000" currency="USD">$1.29</im:price>
+				
+					<im:image height="55">http://a663.phobos.apple.com/us/r1000/109/Features/5f/7b/d9/dj.aqphuayl.55x55-70.jpg</im:image>
+				
+					<im:image height="60">http://a1737.phobos.apple.com/us/r1000/109/Features/5f/7b/d9/dj.aqphuayl.60x60-50.jpg</im:image>
+				
+					<im:image height="170">http://a1688.phobos.apple.com/us/r1000/109/Features/5f/7b/d9/dj.aqphuayl.170x170-75.jpg</im:image>
+				
+					<rights>&#8471; 2012 Fueled By Ramen, LLC for the United States and WEA International Inc. for the world outside of the United States.</rights>
+				
+					<im:releaseDate label="February 21, 2012">2012-02-21T00:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>Some Nights</im:name><link rel="alternate" type="text/html" href="https://itunes.apple.com/us/album/some-nights/id486040153?uo=2"/><im:contentType term="Music" label="Music"><im:contentType term="Album" label="Album"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://itunes.apple.com/us/album/some-nights/id486040153?i=486040194&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;Fun. - Some Nights artwork&quot; src=&quot;http://a1688.phobos.apple.com/us/r1000/109/Features/5f/7b/d9/dj.aqphuayl.170x170-75.jpg&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;http://r.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://itunes.apple.com/us/album/some-nights/id486040153?i=486040194&amp;uo=2&quot;&gt;Some Nights&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://itunes.apple.com/us/album/some-nights/id486040153?uo=2&quot;&gt;Some Nights&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://itunes.apple.com/us/artist/fun./id138226712?uo=2&quot;&gt;Fun.&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;Genre:&lt;/b&gt; &lt;a href=&quot;https://itunes.apple.com/us/genre/music-alternative/id20?uo=2&quot;&gt;Alternative&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Price:&lt;/b&gt; $1.29
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Release Date:&lt;/b&gt; February 21, 2012
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2012 Fueled By Ramen, LLC for the United States and WEA International Inc. for the world outside of the United States.&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2012-10-27T11:34:21-07:00</updated>
+				
+					<id im:id="571445450">https://itunes.apple.com/us/album/red/id571445253?i=571445450&amp;uo=2</id>
+				
+					<title>Red - Taylor Swift</title>
+				
+					
+				
+					<im:name>Red</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://itunes.apple.com/us/album/red/id571445253?i=571445450&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="Music"><im:contentType term="Track" label="Track"/></im:contentType>
+				
+					<category im:id="6" term="Country" scheme="https://itunes.apple.com/us/genre/music-country/id6?uo=2" label="Country"/>
+				
+					<link title="Preview" rel="enclosure" type="audio/x-m4a" href="http://a744.phobos.apple.com/us/r1000/091/Music/v4/e9/56/70/e95670f4-a6ee-de86-990e-0316d96c6764/mzaf_5516871193094355149.aac.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://itunes.apple.com/us/artist/taylor-swift/id159260351?uo=2">Taylor Swift</im:artist>
+				
+					<im:price amount="1.29000" currency="USD">$1.29</im:price>
+				
+					<im:image height="55">http://a1257.phobos.apple.com/us/r1000/103/Music/v4/eb/bc/02/ebbc0219-a3a1-7c77-42ed-706251b98136/UMG_cvrart_00843930007134_01_RGB72_1200x1200_12UMDIM01007.55x55-70.jpg</im:image>
+				
+					<im:image height="60">http://a1979.phobos.apple.com/us/r1000/103/Music/v4/eb/bc/02/ebbc0219-a3a1-7c77-42ed-706251b98136/UMG_cvrart_00843930007134_01_RGB72_1200x1200_12UMDIM01007.60x60-50.jpg</im:image>
+				
+					<im:image height="170">http://a506.phobos.apple.com/us/r1000/103/Music/v4/eb/bc/02/ebbc0219-a3a1-7c77-42ed-706251b98136/UMG_cvrart_00843930007134_01_RGB72_1200x1200_12UMDIM01007.170x170-75.jpg</im:image>
+				
+					<rights>&#8471; 2012 Big Machine Records, LLC.</rights>
+				
+					<im:releaseDate label="October 22, 2012">2012-10-22T00:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>Red</im:name><link rel="alternate" type="text/html" href="https://itunes.apple.com/us/album/red/id571445253?uo=2"/><im:contentType term="Music" label="Music"><im:contentType term="Album" label="Album"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://itunes.apple.com/us/album/red/id571445253?i=571445450&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;Taylor Swift - Red artwork&quot; src=&quot;http://a506.phobos.apple.com/us/r1000/103/Music/v4/eb/bc/02/ebbc0219-a3a1-7c77-42ed-706251b98136/UMG_cvrart_00843930007134_01_RGB72_1200x1200_12UMDIM01007.170x170-75.jpg&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;http://r.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://itunes.apple.com/us/album/red/id571445253?i=571445450&amp;uo=2&quot;&gt;Red&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://itunes.apple.com/us/album/red/id571445253?uo=2&quot;&gt;Red&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://itunes.apple.com/us/artist/taylor-swift/id159260351?uo=2&quot;&gt;Taylor Swift&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;Genre:&lt;/b&gt; &lt;a href=&quot;https://itunes.apple.com/us/genre/music-country/id6?uo=2&quot;&gt;Country&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Price:&lt;/b&gt; $1.29
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Release Date:&lt;/b&gt; October 22, 2012
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2012 Big Machine Records, LLC.&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+	</feed>
