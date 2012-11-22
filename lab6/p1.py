@@ -16,6 +16,37 @@ class Matr3x3(object):
         result[i][j] = self.data[i][j] + val.data[j][j]
     return Matr3x3(result)
 
+  def mult(self, val):
+    f = None
+    if isinstance(val, int) or isinstance(val, float):
+      f = self.mult_i
+    elif isinstance(val, Vector):
+      f = self.mult_v
+    elif isinstance(val, Matr3x3):
+      f = self.mult_m
+    return f(val)
+
+  def mult_i(self, val):
+    return Matr3x3([[ val*m.data[i][j] for j in range(0, m.side)] for i in range(0, m.side)])
+
+  def mult_v(self, val):
+    result = [0] * self.side
+
+    for i in range(self.side):
+      for j in range(self.side):
+        result[i] += self.data[i][j] * val.data[0][j]
+    return Vector(result)
+
+  def mult_m(self, val):
+    result = []
+
+    for i in range(self.side):
+      result.append([0] * self.side)
+      for j in range(self.side):
+        for k in range(self.side):
+          result[i][j] += self.data[i][k] * val.data[k][j]
+    return Matr3x3(result)
+
   def inv(self):
     det = self.data[0][0] * self.data[1][1] * self.data[2][2] + \
       self.data[0][1] * self.data[1][2] * self.data[2][0] + \
@@ -63,7 +94,7 @@ class Vector(Matr3x3):
   def __init__(self, data):
     super(Vector, self).__init__([data]) 
   def __add__(self, val): pass
-  def __int__(self, val): pass
+  def inv(self, val): pass
 
 class ZRol(Matr3x3):
   def __init__(self, angle):
@@ -75,30 +106,24 @@ class ZRol(Matr3x3):
     super(ZRol, self).__init__(data) 
 
 @multimethod(Matr3x3, int)
-def mult(m, val):
-  m.data = [[ val*m.data[i][j] for j in range(0, m.side)] for i in range(0, m.side)]
-  return m
+def mult(self, val):
+  return self.mult_i(val)
+
 
 @multimethod(Matr3x3, Matr3x3)
 def mult(self, val):
-  result = []
-
-  for i in range(self.side):
-    result.append([0] * self.side)
-    for j in range(self.side):
-      for k in range(self.side):
-        result[i][j] += self.data[i][k] * val.data[k][j]
-  return Matr3x3(result)
+  return self.mult_m(val)
 
 @multimethod(Matr3x3, Vector)
 def mult(self, val):
-  result = [0] * self.side
-
-  for i in range(self.side):
-    for j in range(self.side):
-      result[i] += self.data[i][j] * val.data[0][j]
-  return Vector(result)
-
+  return self.mult_v(val)
+ 
 
 m = Matr3x3([[2,2,3],[4,5,6],[7,8,9]])
-mult(m,Vector([1,2,3])).print()
+m.mult(5).print()
+m.mult(m).print()
+m.mult(Vector([1,2,3])).print()
+
+mult(m, 5).print()
+mult(m, m).print()
+mult(m, Vector([1,2,3])).print()
