@@ -1,7 +1,7 @@
 #!/usr/local/bin/python3
 
 import random
-
+import re
 import sys
 import threading
 import time
@@ -45,6 +45,8 @@ def print_cpu_info(loading, cpu = 0, offset = 0):
   os.system("tput cup {0} {1}".format(offset + CPU_GRAPH_SCALE, cpu * 5))
   print(loading)
 
+IDLE_IND = 3
+CPU_RE = re.compile(r"^cpu[0-9]+.*")
 def get_cpu_usage():  
   cpu_infos = []
   error_msg = ""
@@ -54,14 +56,14 @@ def get_cpu_usage():
       cpu_cnt = 0
       for line in f:
         #line is not <cpu blahblah>, but <cpuN blah blah>
-        if not line.startswith('cpu') or line[4] != " ": continue
-        
+        if not CPU_RE.search(line): continue
+         
         times = [int(i) for i in line.split()[1:8]]
-        cpu_infos.append((error_msg, int(100*times[3] / sum(times)) / 100))
+        cpu_infos.append((cpu_cnt, int(100 * (1 - times[IDLE_IND] / sum(times))) / 100))
         cpu_cnt += 1
   except IOError:
-    error_msg = "Proc stat is available only on Linux"
-
+    error_msg = "Proc usage is available only on Linux"
+ 
   return (error_msg, cpu_infos)
 
 def visualizer(*args):
@@ -87,11 +89,15 @@ BASE_CHUNCKS_COUNT = 3000
 if __name__ == "__main__":
   counter = PiCounter()
   
-  os.system("tput invis");
+  os.system("tput civis");
   spawn_interval = .5 if len(sys.argv) < 2 else sys.argv[1]
   threading.Thread(target=visualizer, args=(counter,)).start()
   
-  last_outsourced_bound = 0
+  last_outsourced_bound = 20
+  base_cntr = threading.Thread(target=counter.compute, args=(1, last_outsourced_bound))
+  base_cntr.start()
+  base_cntr.join()
+  
   while True:
     if random.uniform(1, MAX_THREAD_COUNT) > threading.active_count():
       start = last_outsourced_bound
