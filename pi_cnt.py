@@ -62,7 +62,7 @@ def get_cpu_usage():
         cpu_infos.append((cpu_cnt, int(100 * (1 - times[IDLE_IND] / sum(times))) / 100))
         cpu_cnt += 1
   except IOError:
-    error_msg = "Proc stat is available only on Linux"
+    error_msg = "Proc usage is available only on Linux"
  
   return (error_msg, cpu_infos)
 
